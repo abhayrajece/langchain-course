@@ -3,7 +3,11 @@ name = "agentic-ai"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+<<<<<<< HEAD
 requires-python = ">=3.13"
+=======
+requires-python = ">=3.11"
+>>>>>>> c897c4e (Initial commit)
 dependencies = [
     "black>=26.3.1",
     "isort>=8.0.1",
